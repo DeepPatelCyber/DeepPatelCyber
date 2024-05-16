@@ -11,7 +11,8 @@
 
 <h2>🔭 What I am currently working on</h2>
   
-- [Computer Incident Response Plan (CIRP)](https://www.youtube.com/watch?v=a83ASGn_V_s)  
+- [Computer Incident Response Plan (CIRP)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- CompTIA A+ Certification
 
 <h2> 🤳 Connect with me:</h2>
 
