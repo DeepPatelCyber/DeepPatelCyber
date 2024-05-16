@@ -24,7 +24,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/deep-patel-it
+[linkedin]: https://linkedin.com/in/deep-patel-it
 
 
 <!--
